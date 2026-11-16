@@ -1,0 +1,21 @@
+{
+  "name": "vdlt-mods",
+  "owner": { "name": "VDLT · Vive de lo Tuyo" },
+  "plugins": [
+    {
+      "name": "sabueso",
+      "source": "./sabueso",
+      "description": "Busca tus archivos y código con Haiku, que gasta mucho menos límite que Opus."
+    },
+    {
+      "name": "termo",
+      "source": "./termo",
+      "description": "Te avisa antes de que la caché se enfríe y de cuántos tokens relee tu próximo mensaje."
+    },
+    {
+      "name": "chivato",
+      "source": "./chivato",
+      "description": "Panel en directo con tu límite, el contexto y lo que gasta cada agente."
+    }
+  ]
+}
