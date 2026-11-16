@@ -1,0 +1,6 @@
+{
+  "name": "termo",
+  "version": "0.1.0",
+  "description": "El termo: mantiene caliente tu caché. Te avisa antes de que se enfríe y de cuántos tokens relee tu próximo mensaje si ya se ha enfriado.",
+  "types": "./types/index.d.ts"
+}
