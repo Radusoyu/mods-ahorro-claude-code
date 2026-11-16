@@ -1,0 +1,6 @@
+{
+  "name": "chivato",
+  "version": "0.1.0",
+  "description": "El chivato: panel en directo con tu límite, el contexto y lo que gasta cada agente y con qué modelo.",
+  "types": "./types/index.d.ts"
+}
