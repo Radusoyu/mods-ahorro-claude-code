@@ -1,0 +1,6 @@
+{
+  "name": "sabueso",
+  "version": "0.1.0",
+  "description": "El sabueso: busca tus archivos y código con Haiku, que gasta mucho menos límite que Opus.",
+  "types": "./types/index.d.ts"
+}
